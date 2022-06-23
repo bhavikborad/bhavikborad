@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavikborad
 - 👀 I’m interested in Learning New Technology stuff 
-- 🌱 I’m currently learning New Frond-End Technology
+- 🌱 I’m currently learning New Front-End Technology
 - 💞️ I’m looking to collaborate on other content on GitHub
 - 📫 Reach me at bhavikborad07@gmail.com
 
